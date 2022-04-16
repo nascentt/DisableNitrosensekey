@@ -10,4 +10,4 @@ This script simply hooks into the key and does nothing. I added a beep so that y
 I thought about remapping it, but honestly, the only thing I would ever want the button that's meant to be numlock to do is be numlock, and then you have two numlock keys next to each other, plus if I wanted it to work with CapShift I'd need to do some sort of loop to repeatedly spam the numlock sendkey to replicate being held etc. I figured just beep and do nothing was the best solution.
 
 # Autohotkey
-This is an AutoHotkey Script. To create an executable from it download AutoHotkey from autohotkey.com and use AHK2EXE to compile it into IdleLock.exe
+This is an AutoHotkey Script. To create an executable from it download AutoHotkey from autohotkey.com and use AHK2EXE to compile it into DisableNitrosensekey.exe
