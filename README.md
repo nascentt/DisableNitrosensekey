@@ -11,3 +11,6 @@ I thought about remapping it, but honestly, the only thing I would ever want the
 
 # Autohotkey
 This is an AutoHotkey Script. To create an executable from it download AutoHotkey from autohotkey.com and use AHK2EXE to compile it into DisableNitrosensekey.exe
+
+# Download
+To download DisableNitrosensekey [get the latest release](https://github.com/nascentt/DisableNitrosensekey/releases/download/v1.0/DisableNitrosensekey.exe)
